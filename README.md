@@ -1,1 +1,1 @@
-# Practicas_de_biologia_molecular
+# Prácticas de biología molecular
