@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.8.11)  11 NOV 2025 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.8.11)  11 NOV 2025 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -844,32 +844,13 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `documento.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'documento.bbl' not found.
-
-No file documento.bbl.
+Package biblatex Info: ... file 'documento.bbl' found.
+ (c:\Users\c-lop\Mi unidad\Física Médica\R3Bio_git\Practicas_de_biologia_molecular\Practica3\build\documento.bbl)
 Package biblatex Info: Reference section=0 on input line 51.
 Package biblatex Info: Reference segment=0 on input line 51.
+ [1
 
-LaTeX Warning: Citation 'Cooper' on page 1 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Karp2011' on page 1 undefined on input line 78.
-
-
-LaTeX Warning: Citation 'Karp2011' on page 1 undefined on input line 80.
-
-
-LaTeX Warning: Citation 'Karp2011' on page 1 undefined on input line 83.
-
-
-LaTeX Warning: Citation 'Trejo2011' on page 1 undefined on input line 87.
-
-
-LaTeX Warning: Empty bibliography on input line 97.
-
-[1
-
-{C:/Users/c-lop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\c-lop\Mi unidad\Física Médica\R3Bio_git\Practicas_de_biologia_molecular\Practica3\build\documento.aux
+{C:/Users/c-lop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (c:\Users\c-lop\Mi unidad\Física Médica\R3Bio_git\Practicas_de_biologia_molecular\Practica3\build\documento.aux
 LaTeX Info: Redefining \sptext on input line 27.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
@@ -878,33 +859,24 @@ LaTeX Info: Redefining \% on input line 27.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `documento.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                documento
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'documento.run.xml'.
 \openout1 = `documento.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23140 strings out of 474486
- 401493 string characters out of 5753570
- 1943542 words of memory out of 5000000
- 45164 multiletter control sequences out of 15000+600000
- 559581 words of font info for 41 fonts, out of 8000000 for 9000
+ 23208 strings out of 474486
+ 403330 string characters out of 5753570
+ 1945542 words of memory out of 5000000
+ 45224 multiletter control sequences out of 15000+600000
+ 559927 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,5n,93p,1177b,2817s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "c:\Users\c-lop\Mi unidad\Física Médica\R3Bio_git\Practicas_de_biologia_molecular\Practica3\build\documento.pdf" (1 page, 67467 bytes).
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "c:\Users\c-lop\Mi unidad\Física Médica\R3Bio_git\Practicas_de_biologia_molecular\Practica3\build\documento.pdf" (2 pages, 98107 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 57 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,20 +1,23 @@
 # Fdb version 4
-["biber build/documento"] 0 "build/documento.bcf" "build/documento.bbl" "build/documento" 1762914234.97866 0
-  "build/documento.bcf" 0 -1 0 "pdflatex"
-  "ref.bib" 0 -1 0 ""
+["biber build/documento"] 1762914308.78491 "build/documento.bcf" "build/documento.bbl" "build/documento" 1762914321.14142 0
+  "build/documento.bcf" 1762914320 132323 73175ae0d547ebdae3661bb60c6a33f4 "pdflatex"
+  "build/ref.bib" 1762913250 868 1396ac6dcfb294079e83cb8024921fb5 ""
   (generated)
   "build/documento.bbl"
   "build/documento.blg"
   (rewritten before read)
-["pdflatex"] 1762914223.58033 "c:/Users/c-lop/Mi unidad/Física Médica/R3Bio_git/Practicas_de_biologia_molecular/Practica3/documento.tex" "build/documento.pdf" "documento" 1762914234.98603 0
+["pdflatex"] 1762914318.17267 "c:/Users/c-lop/Mi unidad/Física Médica/R3Bio_git/Practicas_de_biologia_molecular/Practica3/documento.tex" "build/documento.pdf" "documento" 1762914321.14248 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Program Files/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
@@ -116,12 +119,12 @@
   "C:/Users/c-lop/AppData/Roaming/MiKTeX/tex/latex/physics/physics.sty" 1356002062 29610 a9597219b282d9c78b02393dcd7d4322 ""
   "C:/Users/c-lop/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/c-lop/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
-  "build/documento.aux" 1762914231 982 8fcc9b18323aa72a0ca8c8af9505c97a "pdflatex"
-  "build/documento.bbl" 0 -1 0 "biber build/documento"
-  "build/documento.out" 1762914230 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "build/documento.run.xml" 1762914231 2427 6fe9f13fd36d865e9517ed2318093442 "pdflatex"
-  "c:/Users/c-lop/Mi unidad/Física Médica/R3Bio_git/Practicas_de_biologia_molecular/Practica3/documento.tex" 1762914180 6119 f0b7f1da880dee62dc600ae44f899479 ""
-  "documento.tex" 1762914180 6119 f0b7f1da880dee62dc600ae44f899479 ""
+  "build/documento.aux" 1762914320 1345 728d08ba0babd6b181987740e792321c "pdflatex"
+  "build/documento.bbl" 1762914311 9117 3bbacf9fc8971859117133b149555a04 "biber build/documento"
+  "build/documento.out" 1762914320 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/documento.run.xml" 1762914320 2427 048172c06332dfdb98f7e7a1bce5f99a "pdflatex"
+  "c:/Users/c-lop/Mi unidad/Física Médica/R3Bio_git/Practicas_de_biologia_molecular/Practica3/documento.tex" 1762914304 6119 f0b7f1da880dee62dc600ae44f899479 ""
+  "documento.tex" 1762914304 6119 f0b7f1da880dee62dc600ae44f899479 ""
   (generated)
   "build/documento.aux"
   "build/documento.bcf"
