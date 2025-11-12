@@ -233,6 +233,11 @@ INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 OUTPUT c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.bcf
+INPUT c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.bbl
+INPUT c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.bbl
+INPUT c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.bbl
+INPUT c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.bbl
+INPUT c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.bbl
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm

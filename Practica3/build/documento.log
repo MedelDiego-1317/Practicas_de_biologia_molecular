@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.23)  11 NOV 2025 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.23)  11 NOV 2025 20:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -848,11 +848,59 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `documento.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'documento.bbl' not found.
 
-No file documento.bbl.
+
+Package biblatex Warning: File 'documento.bbl' is wrong format version - expected 3.3.
+
+Package biblatex Info: ... file 'documento.bbl' found.
+(c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.bbl)
 Package biblatex Info: Reference section=0 on input line 51.
 Package biblatex Info: Reference segment=0 on input line 51.
+
+Overfull \hbox (16.47798pt too wide) in paragraph at lines 23--52
+[]\OT1/cmr/m/n/10 author2un=0,uniquepart=base,hash=397181021a0625d635f8767bb0472920family=Cooper, fa-mil-yi=C., gi-ven=Geoffrey
+ []
+
+
+Overfull \hbox (155.57857pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 fa-mil-yi=H., gi-ven=Robert E., gi-ve-ni=R. E., gi-ve-nun=0                  author1un=0,uniquepart=base,hash=9673efc09266f47a93c7cdf799b67a93family=Karp,
+ []
+
+
+Overfull \hbox (139.11794pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 fa-mil-yi=K., gi-ven=Gerald, gi-ve-ni=G., gi-ve-nun=0                  author2un=0,uniquepart=base,hash=c149bf7e90c47a8437d9c08e5a950284family=Garc^^S^^Pa
+ []
+
+
+Overfull \hbox (116.23473pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 Tre-jo, fa-mil-yi=G. T., gi-ven=Jos^^Se J., gi-ve-ni=J. J., gi-ve-nun=0un=0,uniquepart=base,hash=594e6f07c2842ce4575d6d5c7182b860family=Ortega,
+ []
+
+
+Overfull \hbox (154.99303pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 fa-mil-yi=O., gi-ven=Raquel, gi-ve-ni=R., gi-ve-nun=0                     author2un=0,uniquepart=base,hash=397181021a0625d635f8767bb0472920family=Cooper,
+ []
+
+
+Overfull \hbox (118.49539pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 fa-mil-yi=C., gi-ven=Geoffrey M., gi-ve-ni=G. M., gi-ve-nun=0un=0,uniquepart=base,hash=be4a142d143d5b0884421f469a5ad4e7family=Hausman,
+ []
+
+
+Overfull \hbox (155.57857pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 fa-mil-yi=H., gi-ven=Robert E., gi-ve-ni=R. E., gi-ve-nun=0                  author1un=0,uniquepart=base,hash=9673efc09266f47a93c7cdf799b67a93family=Karp,
+ []
+
+
+Overfull \hbox (139.11794pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 fa-mil-yi=K., gi-ven=Gerald, gi-ve-ni=G., gi-ve-nun=0                  author2un=0,uniquepart=base,hash=c149bf7e90c47a8437d9c08e5a950284family=Garc^^S^^Pa
+ []
+
+
+Overfull \hbox (116.23473pt too wide) in paragraph at lines 23--52
+\OT1/cmr/m/n/10 Tre-jo, fa-mil-yi=G. T., gi-ven=Jos^^Se J., gi-ve-ni=J. J., gi-ve-nun=0un=0,uniquepart=base,hash=594e6f07c2842ce4575d6d5c7182b860family=Ortega,
+ []
+
 
 LaTeX Warning: Citation 'Cooper' on page 1 undefined on input line 72.
 
@@ -869,13 +917,16 @@ LaTeX Warning: Citation 'Karp2011' on page 1 undefined on input line 83.
 LaTeX Warning: Citation 'Trejo2011' on page 1 undefined on input line 87.
 
 
+
+[1
+
+{C:/Users/diego/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
 LaTeX Warning: Empty bibliography on input line 97.
 
 
 
-[1
-
-{C:/Users/diego/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.aux
+[2] (c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.aux
 LaTeX Info: Redefining \sptext on input line 27.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
@@ -900,17 +951,17 @@ Package logreq Info: Writing requests to 'documento.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23193 strings out of 468081
- 403077 string characters out of 5435855
- 1400949 words of memory out of 5000000
- 51610 multiletter control sequences out of 15000+600000
+ 23221 strings out of 468081
+ 404110 string characters out of 5435855
+ 1403972 words of memory out of 5000000
+ 51635 multiletter control sequences out of 15000+600000
  629233 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,5n,79p,1185b,2817s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,6n,79p,1185b,2817s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.pdf (1 page, 67421 bytes).
+Output written on c:\Users\diego\OneDrive\Escritorio\Universidad\Github\Practicas_de_biologia_molecular\Practica3\build\documento.pdf (2 pages, 71108 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 36 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
