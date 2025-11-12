@@ -1,21 +1,23 @@
 # Fdb version 4
-["biber build/documento"] 1762914308.78491 "build/documento.bcf" "build/documento.bbl" "build/documento" 1762914540.02526 0
-  "build/documento.bcf" 1762914320 132323 73175ae0d547ebdae3661bb60c6a33f4 "pdflatex"
+["biber build/documento"] 1762914308.78491 "build/documento.bcf" "build/documento.bbl" "build/documento" 1762914572.86483 0
+  "build/documento.bcf" 1762914521 132323 73175ae0d547ebdae3661bb60c6a33f4 "pdflatex"
   "build/ref.bib" 1762914460 868 1396ac6dcfb294079e83cb8024921fb5 ""
   "ref.bib" 0 -1 0 ""
   (generated)
   "build/documento.bbl"
   "build/documento.blg"
   (rewritten before read)
-["pdflatex"] 1762914538.27606 "c:/Users/diego/OneDrive/Escritorio/Universidad/Github/Practicas_de_biologia_molecular/Practica3/documento.tex" "build/documento.pdf" "documento" 1762914540.02608 0
+["pdflatex"] 1762914570.77748 "c:/Users/diego/OneDrive/Escritorio/Universidad/Github/Practicas_de_biologia_molecular/Practica3/documento.tex" "build/documento.pdf" "documento" 1762914572.86566 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/latex-fonts/lasy10.tfm" 1136765053 520 82a3d37183f34b6eb363a161dfc002c2 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb" 1247596653 10304 e98704f815e417bc375e9a880a38e542 ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Program Files/MiKTeX/tex/generic/babel/babel.sty" 1759333861 146665 1d1535884f6fcab33ff7bf336b21bae5 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1759333862 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
@@ -38,6 +40,7 @@
   "C:/Program Files/MiKTeX/tex/latex/base/ifthen.sty" 1749467999 5525 1593ca62a2554dd7423fc8a4e5a82125 ""
   "C:/Program Files/MiKTeX/tex/latex/base/inputenc.sty" 1749467999 5048 0270515b828149155424600fd2d58ac5 ""
   "C:/Program Files/MiKTeX/tex/latex/base/size10.clo" 1749467999 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "C:/Program Files/MiKTeX/tex/latex/base/ulasy.fd" 1749467999 2233 b5d3114ec3e0616e658a8e7b74e810f1 ""
   "C:/Program Files/MiKTeX/tex/latex/biblatex/bbx/numeric.bbx" 1752408733 1818 9ed166ac0a9204a8ebe450ca09db5dde ""
   "C:/Program Files/MiKTeX/tex/latex/biblatex/bbx/standard.bbx" 1752408733 25680 409c3f3d570418bc545e8065bebd0688 ""
   "C:/Program Files/MiKTeX/tex/latex/biblatex/biblatex.cfg" 1752408733 69 249fa6df04d948e51b6d5c67bea30c42 ""
@@ -112,12 +115,12 @@
   "C:/Users/diego/AppData/Roaming/MiKTeX/tex/latex/physics/physics.sty" 1356002062 29610 a9597219b282d9c78b02393dcd7d4322 ""
   "C:/Users/diego/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/diego/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
-  "build/documento.aux" 1762914539 1085 e44f751d69f66031e457078f51f43326 "pdflatex"
+  "build/documento.aux" 1762914572 1085 e44f751d69f66031e457078f51f43326 "pdflatex"
   "build/documento.bbl" 1762914460 9117 3bbacf9fc8971859117133b149555a04 "biber build/documento"
-  "build/documento.out" 1762914539 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "build/documento.run.xml" 1762914539 2427 6fe9f13fd36d865e9517ed2318093442 "pdflatex"
-  "c:/Users/diego/OneDrive/Escritorio/Universidad/Github/Practicas_de_biologia_molecular/Practica3/documento.tex" 1762914537 6144 8102923fcc8d58d4bb108592db1c26d4 ""
-  "documento.tex" 1762914537 6144 8102923fcc8d58d4bb108592db1c26d4 ""
+  "build/documento.out" 1762914572 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/documento.run.xml" 1762914572 2427 6fe9f13fd36d865e9517ed2318093442 "pdflatex"
+  "c:/Users/diego/OneDrive/Escritorio/Universidad/Github/Practicas_de_biologia_molecular/Practica3/documento.tex" 1762914570 6259 41f0ada974b3f7f952011becfcc823b5 ""
+  "documento.tex" 1762914570 6259 41f0ada974b3f7f952011becfcc823b5 ""
   (generated)
   "build/documento.aux"
   "build/documento.bcf"
