@@ -1,0 +1,107 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[letterpaper,left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{fancyhdr}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{rotating}
+\usepackage{graphicx}
+\graphicspath{{img/}}
+\usepackage[mathscr]{euscript}
+\usepackage[dvipsnames,svgnames,table]{xcolor}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{physics}
+\usepackage[version=4]{mhchem}
+\usepackage[spanish,es-nodecimaldot,es-tabla]{babel}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{csquotes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{definitions}
+%\input{qmdef}
+\newcommand{\be}{\begin{equation*}}
+\newcommand{\ee}{\end{equation*}}
+\newcommand{\ble}[1]{\begin{equation} \label{#1}}
+\newcommand{\bae}{\begin{eqnarray}}
+\newcommand{\eae}{\end{eqnarray}}
+\newcommand{\sint}{\sin{\theta}}
+\newcommand{\cost}{\cos{\theta}}
+\newcommand{\pl}{\left(}
+\newcommand{\pr}{\right)}
+\newcommand{\kl}{\left[}
+\newcommand{\kr}{\right]}
+\newcommand{\ii}{\int_{-\infty}^\infty}
+\providecommand{\abs}[1]{\lvert#1\rvert}
+\providecommand{\norm}[1]{\lVert#1\rVert}
+\newcommand{\pa}{\vspace{2mm}}
+\definecolor{Grayo}{RGB}{72, 72, 72}
+\definecolor{Graya}{RGB}{158, 158, 158}
+
+% Bibliografía
+\usepackage[backend=biber,citestyle=numeric-comp,bibstyle=apa,sorting=none]{biblatex}
+\bibliography{ref}
+\makeatletter
+\RequireBibliographyStyle{numeric}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\centerline{\Large \textbf{\textcolor{Grayo}{Principios de Biología Celular}}}
+\vspace{3mm}
+\centerline{\large \textsc{Reporte de práctica 3: Electroforesis en gel de acrilamida para proteínas}}
+\vspace{2mm}
+\centerline{\large \textsc{Christopher López Ruiz}}
+
+\vspace{-13pt}
+
+\begin{center}
+\line(1,0){480}
+\end{center}
+
+\vspace{3pt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+\section*{Introducción}
+
+Las proteínas son polímeros de 20 aminoácidos distintos encargadas de ejecutar las tareas dirigidas por la información genética \cite{Cooper}. Con lo cual su identificación es de mucha importancia para la investigación celular.
+
+%%%% Viene la parte de electroforesis
+
+\textbf{¿Por qué separamos por peso molecular a las proteínas?}
+
+El movimiento relativo de las proteínas por un gel de poliacrilamida depende de la densidad de carga (carga por unidad de masa) de las moléculas. Mientras mayor sea la densidad de carga, la proteína se impulsa con más fuerza por el gel y, por tanto, la migración es más rápida. No obstante, la densidad de carga es sólo un factor importante en el fraccionamiento por PAGE; el tamaño y la forma también influyen \cite{Karp2011}. 
+
+La poliacrilamida forma un tamiz molecular con enlaces cruzados que enreda las proteínas que pasan por el gel. Entre mayor sea la proteína, más se enreda y migra con más lentitud. La forma también es un factor importante, porque las proteínas globulares compactas se mueven más rápido que las proteínas fibrosas alargadas de masa molecular similar. La concentración de acrilamida (y el agente de los enlaces cruzados) que se emplea para hacer el gel es otro factor importante. A menor concentración de acrilamida, menos enlaces cruzados se forman en el gel y la migración de una molécula proteínica determinada puede ser más rápida \cite{Karp2011}. 
+
+La electroforesis en gel de poliacrilamida (PAGE) suele llevarse a cabo en presencia del detergente con carga negativa sulfato de dodecilo sódico (SDS), que se une en grandes cantidades con todos los tipos de moléculas de proteína. La repulsión electrostática entre las moléculas unidas de SDS hace que las proteínas se desplieguen en forma similar a un bastón, lo que elimina las diferencias en la forma como factor para la separación. El número de moléculas de SDS que se unen  
+con una proteína es casi proporcional a la masa molecular de la misma (cerca de 1.4 g de SDS por gramo de proteína). Por consiguiente cada especie de proteína, sin importar el tamaño, tiene una densidad de carga equivalente y se impulsa por el gel con la misma fuerza. Sin embargo, como la poliacrilamida tiene muchos enlaces cruzados, las proteínas más grandes se retienen en mayor medida que las pequeñas. Así entonces, en este tipo de electroforesis las proteínas se pueden distinguir por una sola propiedad, su peso molecular \cite{Karp2011}.
+
+\textbf{¿Para qué sirve la gráfica? (esto tiene que ver con el ajuste, es lineal)}
+
+Antes de correr cualquier gel de proteínas, es primordial medir con buena precisión la concentración de las proteínas ([proteína]) en la muestra que se va a usar para la electroforesis. Al medir la concentración de las proteínas debe obtenerse una curva estándar lineal con coeficiente de correlación > 0.9 para poder confiar en la determinación de la [proteína] en la muestra. Conociendo la [proteína] se pueden cargar las muestras calculando, por el volumen de carga, la cantidad precisa de proteína en cada muestra y, por lo tanto, en cada carril del gel. No determinar la [proteína] de las muestras puede llevar a sobrecargar o subcargar el gel. Cuando se sobrecarga un carril con demasiada proteína se distorsiona la corrida de ese carril y la de los carriles vecinos, y las bandas no se separan bien. Al contrario, si se carga muy poca proteína en un carril, pueden no poderse detectar las proteínas de interés. Ambos casos se evitan al medir la [proteína] de las muestras \cite{Trejo2011}.
+
+Entre los distintos métodos para medir la concentración de proteínas está el del Ácido Bicinconínico (BCA).
+
+%%choro del método
+
+
+
+
+
+\printbibliography
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\begin{figure}[h]
+    %\begin{center}
+        %\includegraphics[width=0.5\textwidth]{AT.jpg}
+    %\end{center}
+%\end{figure
